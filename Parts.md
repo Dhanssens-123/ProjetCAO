@@ -1,0 +1,26 @@
+# Parties du Fixie à concevoir
+
+- Cadre
+- Fourche
+- Jeu de direction
+- Potence
+- Roue
+  - Jante
+  - Rayon
+  - Moyeu
+    - Corps
+    - Axe à attache
+- Selle
+  - Tige de selle
+  - Rails de selle
+  - Selle
+- Guidon
+- Pédalier
+  - Bras de manivelle
+  - Axe de manivelle
+  - Pédale
+  - Manivelle
+- Chaine
+  - Maillons
+  - Rivets
+- Pignon arrière
