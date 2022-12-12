@@ -2,25 +2,26 @@
 
 - Cadre
 - Fourche
-- Jeu de direction
 - Potence
-- Roue
+- Guidon
+- Roue 1
   - Jante
   - Rayon
   - Moyeu
     - Corps
-    - Axe à attache
-- Selle
+    - Attache avec pignon arrière ensemble
+- Roue 2 (Carbon Wheel : 1 Part)
+- Pneu
+- Selle (Tout en 1 ? Voir tuto)
   - Tige de selle
-  - Rails de selle
   - Selle
+  - (Rails de selle : Pas obligé)
 - Guidon
 - Pédalier
-  - Bras de manivelle
-  - Axe de manivelle
+  - Bras de manivelle et Plateau ensemble
+  - Bras de manivelle arrière
+  - Axe de manivelle (sans roulements)
   - Pédale
-  - Manivelle
 - Chaine
   - Maillons
   - Rivets
-- Pignon arrière
