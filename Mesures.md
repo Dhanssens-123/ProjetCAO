@@ -1,5 +1,5 @@
 # thru-axles
-(4) avant : 100mm long by 12mm wide
+(4) avant : 105mm long by 12mm wide
 (1) arrière : 135mm long and have a 12mm diameter
 
 # Pédales
